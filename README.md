@@ -30,7 +30,7 @@ For Software:
 - Vue (To Fast Annoyance to Public)
 - HTML/CSS (Making it look legitimately annoying)
 - JavaScript (For real-time password strength depression)
-
+- Claude + GPT - 4o 
 ### Implementation
 # Installation
 ```bash
