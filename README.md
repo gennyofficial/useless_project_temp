@@ -35,7 +35,8 @@ For Software:
 # Installation
 ```bash
 git clone https://github.com/gennyofficial/useless_project_temp.git
-cd useless-project-temp 
+vue create useless_project_temp
+cd useless_project_temp
 ```
 
 ![Password Creation](images/screenshot1.png)
