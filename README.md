@@ -36,9 +36,8 @@ For Software:
 ```bash
 git clone https://github.com/gennyofficial/useless_project_temp.git
 cd useless-project-temp 
+```
 
-### Project Documentation
-# Screenshots
 ![Password Creation](screenshot1.png)
 *Users start out by solving a Simple 8 Character or Higher Criteria😊*
 
@@ -46,16 +45,19 @@ cd useless-project-temp
 *Entered Password checks a set of criterias👀*
 
 ![Let the Nuisance Begin](screenshot3.png)
-*Point at which you really question your life and wish you made better choices*
+*Point at which you really question your life and wish you made better choices🤡*
 
 # Diagrams
 ![Workflow](workflow.png)
-*The spiral of despair as users attempt to create a password that meets our requirements*
+*The spiral of despair as users attempt to create a password that meets our requirements😈*
+
+![Design Work](Design.jpg)
+*Place where the chaos was first designed*
 
 ### Project Demo
 # Video
 [Watch Demo](demo.mp4)
-*Watch our test users question their life choices as they try to generate passwords*
+*Watch our test users question their life choices as they try to generate passwords🙈*
 
 ## Team Contributions
 - Christo Chery George: Architected the core frustration engine
