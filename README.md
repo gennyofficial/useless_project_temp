@@ -38,25 +38,23 @@ git clone https://github.com/gennyofficial/useless_project_temp.git
 cd useless-project-temp 
 ```
 
-![Password Creation](screenshot1.png)
+![Password Creation](images/screenshot1.png)
 *Users start out by solving a Simple 8 Character or Higher Criteria😊*
 
-![Password Validation](screenshot2.png)
+![Password Validation](images/screenshot2.png)
 *Entered Password checks a set of criterias👀*
 
-![Let the Nuisance Begin](screenshot3.png)
+![Let the Nuisance Begin](images/screenshot3.png)
 *Point at which you really question your life and wish you made better choices🤡*
 
 # Diagrams
-![Workflow](workflow.png)
+![Workflow](images/Design.jpg)
 *The spiral of despair as users attempt to create a password that meets our requirements😈*
 
-![Design Work](Design.jpg)
-*Place where the chaos was first designed*
 
 ### Project Demo
 # Video
-[Watch Demo](demo.mp4)
+[Watch Demo](images/demo.mp4)
 *Watch our test users question their life choices as they try to generate passwords🙈*
 
 ## Team Contributions
