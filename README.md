@@ -58,6 +58,8 @@ cd useless_project_temp
 [Watch Demo](images/demo.mp4)
 *Watch our test users question their life choices as they try to generate passwords🙈*
 
+(Due to Github File Limitations, kindly download the video to watch it function)
+
 ## Team Contributions
 - Christo Chery George: Architected the core frustration engine
 - Advika Rajeev: Designed the UI that makes users cry
