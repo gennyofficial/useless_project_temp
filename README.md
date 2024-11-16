@@ -1,3 +1,5 @@
+URL - https://password-sandy.vercel.app/
+
 # Totally Legit Password Generator 🔐
 
 ## Basic Details
